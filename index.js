@@ -4,17 +4,15 @@ let running = true;
 
 function generateGeniuses() {
   geniuses = ["Aris Carter",
-              "Ronin Young Jones",
               "Derrick Bedford",
+              "Ronin Young Jones",
               "Malick	Abdulla",
               "Kahi Brooks",
               "Jordan	Mutiri",
-              "Josiah	Johnson",
               "Damarione Moore",
               "Kaiden Groves",
               "Carter Smith Craney",
               "Paul Araya",
-              "Derrick Johnson Jr",
               "Ardan Gonzales",
               "Jamari Washington",
               "Noah Abiyi",
